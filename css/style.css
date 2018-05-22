@@ -83,6 +83,38 @@ body{
 .header .navbar ul li a:hover{
     color: #2CCC71
 }
+/*-------links-----------*/
+.header .navbar2 {
+    overflow: hidden;
+    background-color: #252F31;
+    color: #FFF;
+
+}
+
+.header .navbar2 h2 { text-transform: uppercase;color: #fff}
+
+.header .navbar2 h2 span {color: #2CCC71}
+    
+
+.header .navbar2 ul{
+    float: right;
+    list-style: none;
+    padding-left: 0;
+    overflow: hidden
+}
+
+
+.header .navbar2 ul li {float: left ; padding: 10px}
+.header .navbar2 ul li a{
+    color: #fff;
+    text-decoration: none
+}
+.header .navbar2 ul li.active a,
+.header .navbar2 ul li a:hover{
+    color: #2CCC71
+}
+
+
 
 
 /* End header*/
