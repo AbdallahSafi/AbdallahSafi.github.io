@@ -276,11 +276,12 @@ body{
 .My-education {
     overflow: hidden;
     padding-top: 30px;
-    padding-bottom: 30px
+    padding-bottom: 30px;
+    background-color:#F2F2F2
     
 }
 
-.My-education hr{margin: 20px 0;background-color:#F2F2F2 ;height: 1px;border: 0}
+.My-education hr{margin: 20px 0;background-color:#999 ;height: 1px;border: 0}
 
 .My-education .main{
      width: 45%;
@@ -385,7 +386,8 @@ body{
     padding-top: 50px;
     padding-bottom: 70px;
     text-align: center;
-    overflow: hidden
+    overflow: hidden;
+    backgorund-color:#F2F2F2
 }
 
 
