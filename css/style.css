@@ -87,12 +87,12 @@ body{
 .navbar2 {
    
     overflow: hidden;
-    background-color: #252F31;
+    background-color: #FFF;
     color: #FFF;
 
 }
 
-.navbar2 h2 { text-transform: uppercase;color: #fff}
+.navbar2 h2 { text-transform: uppercase;color: #BBB}
 
 .navbar2 h2 span {color: #2CCC71}
     
