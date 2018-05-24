@@ -106,7 +106,7 @@ body{
 
 .navbar2 ul li {float: left ; padding: 10px}
 .navbar2 ul li a{
-    color: #fff;
+    color: #777;
     text-decoration: none
 }
 .navbar2 ul li.active a,
