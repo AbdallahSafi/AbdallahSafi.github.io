@@ -85,8 +85,7 @@ body{
 }
 /*-------links-----------*/
 .navbar2 {
-    float: right;
-    padding: 20px;
+   
     overflow: hidden;
     background-color: #252F31;
     color: #FFF;
@@ -98,7 +97,8 @@ body{
 .navbar2 h2 span {color: #2CCC71}
     
 .navbar2 ul{
-    
+     float: right;
+    padding: 20px;
     list-style: none;
     padding-left: 0;
     overflow: hidden
